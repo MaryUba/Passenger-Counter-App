@@ -25,7 +25,6 @@ body{
 .wrapper{
     margin: 2.5rem;
     margin-top: 3.5rem;
-    border: solid red;
 }
 
 h1 {
@@ -43,7 +42,6 @@ p{
     margin: 10px 0;
     font-style: italic;
     font-weight: bold;
-
 }
 
 button {
